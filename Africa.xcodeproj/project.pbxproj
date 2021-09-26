@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF428E792700F8BC00B0FE81 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF428E782700F8BC00B0FE81 /* MotionAnimationView.swift */; };
+		BF428E7B27010FC700B0FE81 /* AnimakGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF428E7A27010FC700B0FE81 /* AnimakGridItemView.swift */; };
 		BFD8BFA226F6951B00DC03BC /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BFA126F6951B00DC03BC /* AfricaApp.swift */; };
 		BFD8BFA426F6951B00DC03BC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD8BFA326F6951B00DC03BC /* ContentView.swift */; };
 		BFD8BFA626F6952500DC03BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFD8BFA526F6952500DC03BC /* Assets.xcassets */; };
@@ -49,6 +51,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF428E782700F8BC00B0FE81 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		BF428E7A27010FC700B0FE81 /* AnimakGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimakGridItemView.swift; sourceTree = "<group>"; };
 		BFD8BF9E26F6951B00DC03BC /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFD8BFA126F6951B00DC03BC /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		BFD8BFA326F6951B00DC03BC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +203,8 @@
 				BFD8C02126F92E4200DC03BC /* VideoListItemView.swift */,
 				BFD8C02326F933FB00DC03BC /* VideoPlayerView.swift */,
 				BFD8C05826FD32B000DC03BC /* MapAnnotationView.swift */,
+				BF428E782700F8BC00B0FE81 /* MotionAnimationView.swift */,
+				BF428E7A27010FC700B0FE81 /* AnimakGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -334,6 +340,8 @@
 				BFD8BFE926F7B3B900DC03BC /* InsetGalleryView.swift in Sources */,
 				BFD8BFDF26F7A4F900DC03BC /* CodableBundleExtension.swift in Sources */,
 				BFD8C02226F92E4200DC03BC /* VideoListItemView.swift in Sources */,
+				BF428E7B27010FC700B0FE81 /* AnimakGridItemView.swift in Sources */,
+				BF428E792700F8BC00B0FE81 /* MotionAnimationView.swift in Sources */,
 				BFD8BFE726F7B28800DC03BC /* HeadingView.swift in Sources */,
 				BFD8BFEB26F7C16F00DC03BC /* insetFactView.swift in Sources */,
 			);
